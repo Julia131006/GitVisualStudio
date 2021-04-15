@@ -11,6 +11,7 @@ namespace Git
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Point point = new Point { X = 10, Y = 23 };
         }
     }
 }
